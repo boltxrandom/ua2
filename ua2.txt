@@ -1,5 +1,3 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=540,height=960};FBLC/en_GB;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G530H;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=540,height=960};FBLC/fr_FR;FBCR/F SFR;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G530FZ;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=2.0,width=720,height=1280};FBLC/nl_NL;FBCR/Tele2 NL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9300;FBSV/4.3;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097190;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G530T;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097191;FBDM/{density=2.0,width=1200,height=1824};FBLC/fr_FR;FBCR/;FBMF/asus;FBBD/google;FBPN/com.facebook.katana;FBDV/Nexus 7;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
